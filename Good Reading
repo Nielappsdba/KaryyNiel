@@ -14,3 +14,18 @@ https://flashdba.com/category/storage-for-dbas/understanding-disk/
 https://emilianofusaglia.net/tag/rman/
 
 https://www.uxora.com/oracle/dba/46-oraenv-enhancement-script
+
+SPM
+http://oradwstories.blogspot.com/2015/03/dealing-fast-with-change-of-execution.html#more
+https://www.oracleplsqltr.com/2021/05/23/sql-plan-baselines/
+https://oracle-base.com/articles/11g/sql-plan-management-11gr1
+https://blog.pythian.com/how-to-improve-sql-statements-performance-using-sql-plan-baselines/
+http://orababy.blogspot.com/2013/07/creating-sql-plan-baseline-and-its.html
+https://ironmandba.wordpress.com/how-to-create-sql-plan-baseline-from-cursor-cache/
+http://kerryosborne.oracle-guy.com/2012/03/15/displaying-sql-baseline-plans/
+https://tanelpoder.com/oracle-sql-plan-stability/
+https://mikedietrichde.com/hol-19c-sql-plan-management/
+https://medium.com/@franckpachot/oracle-dba-sql-plan-baseline-sql-id-and-plan-hash-value-8ffa811a7c68
+https://www.oracleplsqltr.com/2021/05/23/sql-plan-baselines/
+http://msutic.blogspot.com/2014/06/dbmsspmloadplanfromcursorcache-typo.html
+https://www.bobbydurrettdba.com/2020/01/28/query-plan-change-diagnosis-example/
